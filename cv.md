@@ -4,6 +4,27 @@
 
 **Email:** rati1308@gmail.com
 
+## EDUCATION AND SKILLS
+### GEORGIAN-AMERICAN UNIVERSITY (GAU)
+Fall 2012 - Spring 2015 | **MBA** with Salutatorian honours | GPA 3.98/4.3
+
+Fall 2008 - Spring 2012 | **BBA** with Valedictorian honours | GPA 3.95/4.3
+
+### SKILLS
+**Language Skills:** English (fluent), Russian (fluent), French (starter), Georgian (native).
+
+**Computer Skills:**
+  * **MS Excel:** Advanced knowledge of MS Excel, including advanced formulas, voluminous data quantification 
+  and analysis, pivot tables; practical experience in tailored data analyses, creating and applying program and 
+  project monitoring tools, generating dashboards,
+  * **MS PowerPoint:** Advanced knowledge of MS PowerPoint, with experience in ‘translating’ complex data and 
+  analyses to diverse range of target audiences (governments, investors, etc.) in a tailored manner,
+  * Knowledge of **MS Word, MS Outlook, MS Teams**.
+
+**Other Skills:** Structure, definitions, retrieval and processing of data on investment, trade and economic 
+indicators maintained by World Bank WDI, WTO Tariff data base, UN COMTRADE, Intracen Trade Map, 
+Euromonitor International, National Statistics Offices of Georgia and Ukraine.
+
 ## EXPERIENCE
 
 ### DAI GLOBAL LLC
