@@ -1,1 +1,1 @@
-https://RATI1308.github.io/rsschool-cv/
+https://RAT1308.github.io/rsschool-cv/
