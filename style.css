@@ -1,1 +1,97 @@
+:root {
+  --color-white: #f3f3f3;
+  --color-darkblue: #1b1b32;
+  --color-darkblue-alpha:
+  rgba(27, 27, 50, 0.8);
+  --color-green: #37af65;
+}
 
+body {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: var(--color-white);
+  margin: 0;
+}
+
+/* mobile friendly alternative to using background-attachment: fixed */
+body::before {
+  content: '';
+  position: center;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+  background: var(--color-darkblue);
+  background-image: linear-gradient(
+      115deg,
+      rgba(58, 58, 158, 0.😎,
+      rgba(136, 136, 206, 0.7)
+    ),
+    url(https://png.pngtree.com/background/20210710/original/pngtree-business-resume-background-material-picture-image_999584.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+h1 {
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+p {
+  font-size: 1.125rem;
+}
+
+h1,
+p {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.container {
+  width: 100%;
+  margin: 3.125rem auto 0 auto;
+}
+
+.header {
+  padding: 0 0.625rem;
+  margin-bottom: 1.875rem;
+}
+
+.description {
+  font-style: italic;
+  font-weight: 200;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
+}
+
+.text-center {
+  text-align: center;
+}
+
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    font-size: 0.8rem;
+    color: #ffffff;
+    background-color: var(--dark-blue-color);
+}
+
+footer a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+footer .github-icon {
+  margin-right: 10px;
+}
+
+.my-github {
+  display: flex;
+  align-items: center;
+}
